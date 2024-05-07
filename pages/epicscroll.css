@@ -196,4 +196,5 @@ main {
 
 .left{
   text-align: left;
+  justify-content: left;
 }
