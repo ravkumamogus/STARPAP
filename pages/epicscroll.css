@@ -193,3 +193,7 @@ main {
 .whiteborder{
   border: 5px solid white ;
 }
+
+.left{
+  text-align: left;
+}
