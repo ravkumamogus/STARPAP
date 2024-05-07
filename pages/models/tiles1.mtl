@@ -1,0 +1,12 @@
+# Blender 3.6.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.008
+Ns 250.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /Users/ravi/Downloads/18c83ce392e0482249a1371e260d4a0e-1117352459.jpg
